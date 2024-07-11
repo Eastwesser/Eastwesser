@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm Dennis Mattews, a dedicated Python developer. 
   <img src="https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical" alt="Dennis's GitHub stats" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical" alt="Top Langs" height="200" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" height="200" />
 </p>
