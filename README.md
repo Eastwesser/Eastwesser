@@ -4,6 +4,14 @@
 
 Welcome to my GitHub profile! I'm Dennis Mattews, a dedicated Python developer. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
 
+### 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical" alt="Dennis's GitHub stats" height="190" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical" alt="Top Langs" height="190" />
@@ -12,13 +20,6 @@ Welcome to my GitHub profile! I'm Dennis Mattews, a dedicated Python developer. 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" height="190" />
 </p>
 
-### 🛠 Skills & Tools
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ### 🔧 Technologies & Tools
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
