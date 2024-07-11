@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Denis Matveev, a dedicated Python developer from Moscow, Russia. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
+Welcome to my GitHub profile! I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
 
 ### 🔧 Technologies & Tools
 - **Python**: FastAPI, asyncio, aiogram3, requests
