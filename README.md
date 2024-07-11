@@ -18,11 +18,6 @@ Welcome to my GitHub profile! I'm Denis Matveev, a dedicated Python developer fr
 - **Quick Start in FastAPI Python**: [Certificate](https://stepik.org/cert/2363817)
 - **SQL Introduction**: [Certificate](https://stepik.org/cert/2336687)
 
-### 🎓 Education
-**Russian Chemical-Technological University named after D.I. Mendeleev**
-- **Master's degree, 2017-2019, Moscow**
-- **Specialty**: Linguistics, Translation of Scientific and Technical Texts
-
 ### 💬 About Me
 - A dedicated Python developer on a journey to master web development, data analysis, and FastAPI. I embrace routine tasks and always strive for excellence.
 - Holding a red diploma and experience in my specialty, I decided to switch to backend development. I am ready to put in maximum effort to achieve my goals.
