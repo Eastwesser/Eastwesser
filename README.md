@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, dev community! 👋
 
 Welcome to my GitHub profile! I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
 
