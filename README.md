@@ -1,8 +1,8 @@
-## Greetings, fellow web developers! 👋
+## Welcome to my Coding Space! 🌟
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF8C00&width=435&lines=Greetings%2C+fellows!+👋;Welcome+to+my+GitHub+profile!)
 
-Welcome to my GitHub profile! I'm Denis Matveev, a dedicated Python developer from Moscow, Russia. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
+Welcome to my GitHub profile! I'm Dennis Mattews, a dedicated Python developer. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
 
 ### 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -12,8 +12,14 @@ Welcome to my GitHub profile! I'm Denis Matveev, a dedicated Python developer fr
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
+![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical)
+
 ### 🔧 Technologies & Tools
-- **Python**: FastAPI, asyncio, aiogram3, requests
+- **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, asyncpg, SQLAlchemy 2.0
 - **DevOps**: Git, Docker, Poetry, Redis, RabbitMQ
 
@@ -30,19 +36,12 @@ Welcome to my GitHub profile! I'm Denis Matveev, a dedicated Python developer fr
 
 ### 💬 About Me
 - A dedicated Python developer on a journey to master web development, data analysis, and FastAPI. I embrace routine tasks and always strive for excellence.
-- Holding a red diploma and experience in my specialty, I decided to switch to backend development. I am ready to put in maximum effort to achieve my goals.
 - My goal is to become a Fullstack developer and continue exploring new technologies, discovering new horizons.
 
 ### 📫 How to reach me
 - **Email**: eastwesser@gmail.com
 - **Website & GitHub**: [GitHub](https://github.com/Eastwesser)
 - **Telegram**: [@K1vv1](https://t.me/K1vv1)
-
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical)
 
 Thank you for visiting my profile! Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.
 
