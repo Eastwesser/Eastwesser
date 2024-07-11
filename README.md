@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm Denis Matveev, a dedicated Python developer fr
 
 ### 💬 About Me
 - A dedicated Python developer on a journey to master web development, data analysis, and FastAPI. I embrace routine tasks and always strive for excellence.
-- Holding a red diploma and experience in my specialty, I decided to switch to backend development. I am ready to put in maximum effort to achieve my goals.
 - My goal is to become a Fullstack developer and continue exploring new technologies, discovering new horizons.
 
 ### 📫 How to reach me
