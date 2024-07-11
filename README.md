@@ -12,12 +12,6 @@ Welcome to my GitHub profile! I'm Dennis Mattews, a dedicated Python developer. 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
-![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical)
-
 ### 🔧 Technologies & Tools
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, asyncpg, SQLAlchemy 2.0
@@ -42,6 +36,15 @@ Welcome to my GitHub profile! I'm Dennis Mattews, a dedicated Python developer. 
 - **Email**: eastwesser@gmail.com
 - **Website & GitHub**: [GitHub](https://github.com/Eastwesser)
 - **Telegram**: [@K1vv1](https://t.me/K1vv1)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical" alt="Dennis's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" />
+</p>
 
 Thank you for visiting my profile! Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.
 
