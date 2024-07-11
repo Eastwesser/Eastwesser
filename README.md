@@ -1,8 +1,16 @@
 ## Greetings, fellow web developers! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&width=435&lines=Greetings%2C+fellows!+👋;Welcome+to+my+GitHub+profile!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF8C00&width=435&lines=Greetings%2C+fellows!+👋;Welcome+to+my+GitHub+profile!)
 
 Welcome to my GitHub profile! I'm Dennis Mattews [Eastwesser] a dedicated Python developer. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
+
+### 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ### 🔧 Technologies & Tools
 - **Python**: FastAPI, asyncio, aiogram3, requests
@@ -31,17 +39,12 @@ Welcome to my GitHub profile! I'm Dennis Mattews [Eastwesser] a dedicated Python
 - **Telegram**: [@K1vv1](https://t.me/K1vv1)
 
 ![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical)
-![Denis's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Eastwesser&theme=react-dark)
 
-### 🛠 Skills & Tools
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical)
+
+![Denis's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eastwesser&bg_color=000000&color=FFFFFF&line=FF8C00&point=FFFFFF&area=true&hide_border=true)
 
 Thank you for visiting my profile! Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.
 
