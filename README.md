@@ -4,6 +4,15 @@
 
 Welcome to my GitHub profile! I'm Dennis Mattews, a dedicated Python developer. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical" alt="Dennis's GitHub stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical" alt="Top Langs" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" height="200" />
+</p>
+
 ### 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
@@ -36,15 +45,6 @@ Welcome to my GitHub profile! I'm Dennis Mattews, a dedicated Python developer. 
 - **Email**: eastwesser@gmail.com
 - **Website & GitHub**: [GitHub](https://github.com/Eastwesser)
 - **Telegram**: [@K1vv1](https://t.me/K1vv1)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical" alt="Dennis's GitHub stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical" alt="Top Langs" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" height="200" />
-</p>
 
 Thank you for visiting my profile! Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.
 
