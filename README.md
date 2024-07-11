@@ -4,6 +4,8 @@
 
 Welcome to my GitHub profile! I'm Dennis Mattews [Eastwesser] a dedicated Python developer. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
 
+![Denis's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eastwesser&bg_color=000000&color=FFFFFF&line=FF8C00&point=FFFFFF&area=true&hide_border=true)
+
 ### 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
@@ -43,8 +45,6 @@ Welcome to my GitHub profile! I'm Dennis Mattews [Eastwesser] a dedicated Python
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical)
-
-![Denis's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eastwesser&bg_color=000000&color=FFFFFF&line=FF8C00&point=FFFFFF&area=true&hide_border=true)
 
 Thank you for visiting my profile! Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.
 
