@@ -1,8 +1,8 @@
 ## Greetings, fellow web developers! 👋
 
-Welcome to my GitHub profile! I'm Dennis Mattews [Eastwesser] a dedicated Python developer. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF8C00&width=435&lines=Greetings%2C+fellows!+👋;Welcome+to+my+GitHub+profile!)
 
-![Denis's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Eastwesser&bg_color=000000&color=FFFFFF&line=FF8C00&point=FFFFFF&area=true&hide_border=true)
+Welcome to my GitHub profile! I'm Denis Matveev, a dedicated Python developer from Moscow, Russia. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
 
 ### 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
