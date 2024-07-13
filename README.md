@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF8C00&width=435&lines=Greetings%2C+fellows!+👋;Welcome+to+my+GitHub+profile!)
 
-Welcome to my GitHub profile! I'm Dennis Mattews, a dedicated Python developer. I am passionate about web development, data analysis, and constantly improving my skills in FastAPI and other technologies.
-
 ### 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
