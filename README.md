@@ -29,7 +29,7 @@
 ### 🔧 Technologies & Tools
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, asyncpg, SQLAlchemy 2.0
-- **DevOps**: Git, Docker, Poetry, Redis, RabbitMQ
+- **DevOps**: Git, Docker, Poetry, Redis, RabbitMQ, Celery
 
 ### 🌟 Projects & Achievements
 - **Donut Shop Microservice**: Developed a microservice for managing product listings for a donut shop website, utilizing FastAPI and PostgreSQL.
