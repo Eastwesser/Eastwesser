@@ -43,7 +43,7 @@
 - **SQL Introduction**: [Certificate](https://stepik.org/cert/2336687)
 
 ### 💬 About Me
-- A dedicated Python developer on a journey to master web development, data analysis, and FastAPI. I embrace routine tasks and always strive for excellence.
+- A dedicated Golang & Python developer on a journey to master web development, data analysis, and backend. I embrace routine tasks and always strive for excellence.
 - My goal is to become a Fullstack developer and continue exploring new technologies, discovering new horizons.
 
 ### 📫 How to reach me
