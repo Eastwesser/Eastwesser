@@ -4,11 +4,11 @@
 
 ### 🛠 Skills & Tools
 
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Flask](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
@@ -27,7 +27,7 @@
 
 
 ### 🔧 Technologies & Tools
-- **Golang**: Echo
+- **Golang**: Gin, Echo
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, asyncpg, SQLAlchemy 2.0
 - **DevOps**: Git, Docker, Poetry, Redis, RabbitMQ, Celery
