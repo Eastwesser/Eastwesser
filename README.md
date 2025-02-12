@@ -27,7 +27,7 @@
 
 
 ### 🔧 Technologies & Tools
-- **Golang**: Gin, Echo, SQLX, squirrel, Cobra
+- **Golang**: Gin, Echo, SQLX, squirrel, asciigraph, Cobra
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, asyncpg, SQLAlchemy 2.0
 - **DevOps**: Git, Docker, Poetry, Redis, RabbitMQ, Kafka, Celery
