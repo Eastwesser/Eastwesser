@@ -28,9 +28,10 @@
 
 ### 🔧 Technologies & Tools
 - **Golang**: Gin, Echo, SQLX, squirrel, go-chi
-- **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
+- **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests, Poetry
 - **SQL**: SQLite3, PostgreSQL, asyncpg, SQLAlchemy 2.0
-- **DevOps**: Git, Docker, Poetry, Postman, Swagger, Redis, RabbitMQ, Kafka, Celery, Grafana, Prometeus
+- **Backend**: Postman, Swagger, gRPC, JWT, RabbitMQ, Kafka, Celery, Grafana, Prometeus
+- **DevOps**: Git, Docker, Redis 
 
 ### 🌟 Projects & Achievements
 - **Donut Shop Microservice**: Developed a microservice for managing product listings for a donut shop website, utilizing FastAPI and PostgreSQL.
