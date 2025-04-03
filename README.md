@@ -26,7 +26,7 @@
 </p>
 
 
-### 🔧 Technologies & Tools
+### 🔧 Technologies & Skills
 - **Golang**: Gin, Echo, squirrel, go-chi, hugo
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests, Poetry
 - **SQL**: SQLite3, PostgreSQL, SQLX, asyncpg, SQLAlchemy 2.0
