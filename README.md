@@ -30,9 +30,8 @@
 - **Golang**: Gin, Echo, Chi, squirrel, swaggo, authjwt
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, SQLX,  SQLAlchemy 2.0, asyncpg
-- **Backend**: Postman, Swagger, JWT, Prometheus, Grafana, RabbitMQ, Kafka, Celery
+- **Backend**: Postman, Swagger, JWT, Prometheus, Grafana, RabbitMQ, Kafka, Celery, Git, Docker, Redis 
 - **API**: RESTful, gRPC
-- **DevOps**: Git, Docker, Redis 
 
 ### 🌟 Projects & Achievements
 - **Donut Shop Microservice**: Developed a microservice for managing product listings for a donut shop website, utilizing FastAPI and PostgreSQL.
