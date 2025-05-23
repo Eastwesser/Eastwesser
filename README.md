@@ -27,7 +27,7 @@
 
 
 ### 🔧 Technologies & Skills
-- **Golang**: Gin, Echo, Chi, squirrel, swaggo, authjwt
+- **Golang**: Gin, Echo, Chi, squirrel, goose, swaggo, authjwt
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, SQLX,  SQLAlchemy 2.0, asyncpg
 - **Backend**: Postman, Swagger, JWT, Prometheus, Grafana, RabbitMQ, Kafka, Celery, Git, Docker, Redis 
