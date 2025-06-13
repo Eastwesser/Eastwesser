@@ -34,6 +34,7 @@
 - **API**: RESTful, jRPC, gRPC, SCG
 
 ### 🌟 Projects & Achievements
+
 - **Donut Shop Microservice**: Developed a microservice for managing product listings for a donut shop website, utilizing FastAPI and PostgreSQL.
   - [Repository on GitHub](https://github.com/Eastwesser/DonServalApi)
 - **Telegram Bot for YandexGPT & Kandinsky**: Created a Telegram-bot using aiogram3 that integrates with YandexGPT and Kandinsky APIs, enhancing user interaction with automated responses and images.
