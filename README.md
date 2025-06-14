@@ -52,6 +52,7 @@
 - My goal is to become a fullstack developer and continue exploring async technologies, discovering new horizons and optimizing our life.
 
 ### 📫 How to reach me
+
 - **Email**: eastwesser@gmail.com
 - **Telegram**: [@K1vv1](https://t.me/K1vv1)
 
