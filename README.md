@@ -61,5 +61,4 @@
 Thank you for visiting my profile! 
 Feel free to explore my projects and get in touch if you have any questions or collaboration ideas.
 
-
 **Per meliora ad astra et altiora!**
