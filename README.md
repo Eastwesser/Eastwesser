@@ -37,7 +37,7 @@
 ### 🌟 Projects & Achievements
 
 - **Car-sharing LUXURY**: Developed a fullstack app for renting luxury cars from Ford to Ferrari using Golang and TypeScript.
-  - [Repository on GitHub](https://github.com/car-rental)
+  - [Repository on GitHub](https://github.com/Eastwesser/car-rental)
 - **Donut Shop Microservice**: Developed a microservice for managing product listings for a donut shop website, utilizing FastAPI and PostgreSQL.
   - [Repository on GitHub](https://github.com/Eastwesser/DonServalApi)
 - **Telegram Bot for YandexGPT & Kandinsky**: Created a Telegram-bot using aiogram3 that integrates with YandexGPT and Kandinsky APIs, enhancing user interaction with automated responses and images.
