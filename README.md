@@ -29,7 +29,7 @@
 - **Golang**: Fiber, Gin, Chi, squirrel, goose, swaggo, authjwt, zap
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, SQLX,  SQLAlchemy 2.0, asyncpg
-- **Backend**: Postman, Swagger, JWT, Prometheus, Grafana, Jaeger, Loki, Promtail, Zabbix, Kafka, RabbitMQ, Celery, Git, Docker, Redis 
+- **Backend**: Postman, Swagger, JWT, Prometheus, Grafana, Jaeger, Loki, Promtail, ELK, Zabbix, Kafka, RabbitMQ, Celery, Git, Docker, Redis 
 - **API**: RESTful, RPC, jRPC, gRPC, SCG
 
 ### 🌟 Projects & Achievements
