@@ -50,7 +50,7 @@
 
 ### 💬 About Me
 
-- A dedicated Golang & Python developer on a journey to master web development, data analysis, and backend.
+- A dedicated Golang & Python developer on a journey to master web development, data analysis, and async backend.
 - I embrace routine tasks and always strive for excellence.
 - My goal is to become a fullstack developer and continue exploring async technologies, discovering new horizons and optimizing our life.
 
