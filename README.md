@@ -42,7 +42,7 @@
 - **Telegram Bot for YandexGPT & Kandinsky**: Created a Telegram-bot using aiogram3 that integrates with YandexGPT and Kandinsky APIs, enhancing user interaction with automated responses and images.
   - [Repository on GitHub](https://github.com/Eastwesser/CloudMiu)
 
-### 📜 Certifications
+### 📜 Certifications & Skills
 
 - **Good, Good Python** - Sergey Balakirev's educational course: [Certificate](https://stepik.org/cert/2165774)
 - **Quick Start in FastAPI Python**: [Certificate](https://stepik.org/cert/2363817)
