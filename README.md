@@ -24,7 +24,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" height="190" />
 </p>
 
-### 🔧 Technologies & Skills
+### 🔧 Technologies & aSkills
 
 - **Golang**: Fiber, Gin, Chi, squirrel, goose, swaggo, authjwt, zap
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
