@@ -33,7 +33,7 @@
 - **Monitoring**: Prometheus, Grafana, Jaeger, Loki, Promtail, Zabbix, ELK
 - **API**: RESTful, RPC, jRPC, gRPC
 
-### 🌟 Projects & Achievements
+### 🌟 Projects & Achievements1
 
 - **Car-sharing LUXURY**: Developed a fullstack app for renting luxury cars from Ford to Ferrari using Golang and TypeScript.
   - [Repository on GitHub](https://github.com/Eastwesser/car-rental)
