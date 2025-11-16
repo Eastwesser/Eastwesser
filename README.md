@@ -1,4 +1,4 @@
-### Welcome to my Coding Space🌟
+эх### Welcome to my Coding Space🌟
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF8C00&width=435&lines=Greetings%2C+fellows!+👋;Welcome+to+my+GitHub+profile!)
 
@@ -30,7 +30,7 @@
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, Clickhouse, SQLX,  SQLAlchemy 2.0, asyncpg
 - **Backend**: Postman, Swagger, JWT, Kafka, RabbitMQ, Celery, Redis, Git, Docker, k8s
-- **Monitoring**: Prometheus, Grafana, Jaeger, Loki, Promtail, Zabbix, ELK
+- **Monitoring**: Prometheus, Grafana, Jaeger, Loki, Promtail, Zabbix, ELK stack
 - **API**: RESTful, RPC, jRPC, gRPC
 
 ### 🌟 Projects & Achievements1
