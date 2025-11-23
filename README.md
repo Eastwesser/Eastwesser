@@ -30,7 +30,7 @@
 - **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
 - **SQL**: SQLite3, PostgreSQL, Clickhouse, SQLX,  SQLAlchemy 2.0, asyncpg
 - **Backend**: Postman, Swagger, JWT, Kafka, RabbitMQ, Celery, Redis, MongoDB, Git, Docker, k8s
-- **Monitoring**: Prometheus, Grafana, Jaeger, Loki, Promtail, Zabbix, ELK stack
+- **Monitoring**: Prometheus, Grafana, Jaeger, Loki, Promtail, ELK stack
 - **API**: RESTful, RPC, jRPC, gRPC
 
 ### 🌟 Projects & Achievements
