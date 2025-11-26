@@ -35,6 +35,8 @@
 
 ### 🌟 Projects & Achievements
 
+- **Carton Dream**: Developed a fullstack app for the gift shop using Golang and TypeScript.
+  - [Repository on GitHub](https://github.com/Eastwesser/carton-dream)
 - **Car-sharing LUXURY**: Developed a fullstack app for renting luxury cars from Ford to Ferrari using Golang and TypeScript.
   - [Repository on GitHub](https://github.com/Eastwesser/car-rental)
 - **Donut Shop Microservice**: Developed a microservice for managing product listings for a donut shop website, utilizing FastAPI and PostgreSQL.
