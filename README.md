@@ -44,7 +44,7 @@
 
 ### 📜 Certifications & Skills
 
-- **First steps in Golang**: [Certificate](https://stepik.org/cert/2525739)
+- **Go (Golang) - first acquaintance**: [Certificate](https://stepik.org/cert/2525739?lang=en)
 - **Good, Good Python** - Sergey Balakirev's educational course: [Certificate](https://stepik.org/cert/2165774)
 - **Quick Start in FastAPI Python**: [Certificate](https://stepik.org/cert/2363817)
 - **SQL Introduction**: [Certificate](https://stepik.org/cert/2336687)
