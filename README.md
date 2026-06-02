@@ -31,6 +31,7 @@
 - **SQL**: SQLite3, PostgreSQL, Clickhouse, SQLX,  SQLAlchemy 2.0, asyncpg
 - **Backend**: Postman, Swagger, JWT, Kafka, RabbitMQ, Celery, Redis, MongoDB, Git, Docker, k8s
 - **Monitoring**: Prometheus, Grafana, Jaeger, Loki, Promtail, ELK stack
+- **Event-Driven**: RabbitMQ, Kafka, NATS
 - **API**: RESTful, RPC, jRPC, gRPC
 
 ### 🌟 Projects & Achievements
