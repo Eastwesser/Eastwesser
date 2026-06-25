@@ -36,6 +36,8 @@
 
 ### 🌟 Projects & Achievements
 
+- **Event Horizon**: A highload friendly Golang gaming platform with a real-time leaderboard via NATS + WebSockets and 10K RPS goals.
+  - [Repository on GitHub](https://github.com/Eastwesser/event-horizon)
 - **Car-sharing LUXURY**: Developed a fullstack app for renting luxury cars from Ford to Ferrari using Golang and TypeScript.
   - [Repository on GitHub](https://github.com/Eastwesser/car-rental)
 - **Donut Shop Microservice**: Developed a microservice for managing product listings for a donut shop website, utilizing FastAPI and PostgreSQL.
