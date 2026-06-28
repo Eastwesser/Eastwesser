@@ -38,10 +38,10 @@
 
 - **Event Horizon**: A highload friendly Golang gaming platform with a real-time leaderboard via NATS + WebSockets and 10K RPS goals.
   - [Repository on GitHub](https://github.com/Eastwesser/event-horizon)
+    
 - **Car-sharing LUXURY**: Developed a fullstack app for renting luxury cars from Ford to Ferrari using Golang and TypeScript.
   - [Repository on GitHub](https://github.com/Eastwesser/car-rental)
-- **Donut Shop Microservice**: Developed a microservice for managing product listings for a donut shop website, utilizing FastAPI and PostgreSQL.
-  - [Repository on GitHub](https://github.com/Eastwesser/DonServalApi)
+
 - **Telegram Bot for YandexGPT & Kandinsky**: Created a Telegram-bot using aiogram3 that integrates with YandexGPT and Kandinsky APIs, enhancing user interaction with automated responses and images.
   - [Repository on GitHub](https://github.com/Eastwesser/CloudMiu)
 
@@ -65,4 +65,4 @@
 Thank you for visiting my profile! 
 Feel free to explore my projects and get in touch if you have any questions or collaboration ideas!
 
-**Per meliora ad astra et altiora!**
+**Ad Victoriam!**
