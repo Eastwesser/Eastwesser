@@ -1,4 +1,4 @@
-### Welcome to my Coding Space!!!!! 🌟
+### Welcome to my Coding Space! 🌟
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF8C00&width=435&lines=Greetings%2C+fellows!+👋;Welcome+to+my+GitHub+profile!)
 
@@ -24,15 +24,108 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" height="190" />
 </p>
 
-### 🔧 Technologies & Skills Stack
+# 🛠️ Technologies & Skills Stack
 
-- **Golang**: Fiber, Gin, Chi, Mizu, squirrel, goose, swaggo, authjwt, zap
-- **Python**: FastAPI, Django, Flask, asyncio, aiogram3, requests
-- **SQL**: SQLite3, PostgreSQL, Clickhouse, SQLX,  SQLAlchemy 2.0, asyncpg
-- **Backend**: Postman, Swagger, JWT, Kafka, RabbitMQ, Celery, Redis, MongoDB, Git, Docker, k8s
-- **Monitoring**: Prometheus, Grafana, Jaeger, Loki, Promtail, ELK stack
-- **Event-Driven**: RabbitMQ, Kafka, NATS
-- **API**: RESTful, RPC, jRPC, gRPC
+## 🚀 Core Backend
+
+**Languages & Frameworks**
+
+- **Golang:** `Gin`, `Fiber`, `Chi`  
+  - REST API, gRPC  
+  - Mizu (traffic mirroring)  
+  - Squirrel (query builder)  
+  - Goose (migrations)  
+  - Swaggo (OpenAPI)
+
+- **Python:** `FastAPI`, `Django`, `Flask`  
+  - Async (`asyncio`, `aiohttp`)  
+  - Aiogram3 (Telegram bots)
+
+**API & Communication**
+
+- `RESTful API`, `gRPC`, `JSON-RPC`, `WebSocket`
+
+**Authentication & Security**
+
+- `JWT` (golang-jwt)  
+- `OAuth2`
+
+---
+
+## 🗄️ Storage & Data
+
+| Type               | Tools                                                                 |
+|--------------------|-----------------------------------------------------------------------|
+| **Relational (SQL)** | `PostgreSQL`, `SQLite3`, `sqlx`, `SQLAlchemy 2.0`, `asyncpg`        |
+| **NoSQL**          | `MongoDB`, `Redis` (caching, sessions, pub/sub)                     |
+| **OLAP / Columnar**| `ClickHouse` (analytics, time-series)                               |
+| **ORM / Query Builders** | `GORM`, `Squirrel`, `SQLAlchemy`                            |
+
+---
+
+## 📡 Messaging & Streaming
+
+**Message Brokers**
+
+- `RabbitMQ` (core)  
+- `Apache Kafka` (streaming, partitions)  
+- `NATS` (high-speed, JetStream)
+
+**Integration Patterns**
+
+- Event-driven architecture  
+- Outbox pattern  
+- CQRS (basic)  
+- DLQ (Dead Letter Queue)  
+- Retries with jitter
+
+---
+
+## 📈 Observability & Monitoring
+
+| Tool                         | Purpose                        |
+|------------------------------|--------------------------------|
+| **Prometheus**               | Metrics collection             |
+| **Grafana**                  | Dashboards & visualization     |
+| **Jaeger**                   | Distributed tracing            |
+| **Loki + Promtail**          | Log aggregation                |
+| **ELK Stack** (Elasticsearch, Logstash, Kibana) | Legacy logging system |
+
+---
+
+## 🐳 DevOps & Infrastructure
+
+**Containerization**
+
+- `Docker`, `Docker Compose`  
+- Multi-stage builds, `scratch` images
+
+**Orchestration**
+
+- `Kubernetes (k8s)`  
+  - Helm, HPA (Horizontal Pod Autoscaler)  
+  - Canary deployments  
+  - Liveness/Readiness probes
+
+**CI/CD**
+
+- `GitHub Actions`  
+- `GitLab CI` (basic pipelines)
+
+**Service Discovery**
+
+- `Consul` (basics)
+
+---
+
+## 🛠️ Other Skills
+
+- **Version Control:** `Git` (branching strategies, rebase, merge)  
+- **Testing:**  
+  - `Go` (table-driven tests, `testify`, `gomock`)  
+  - `Python` (`pytest`)  
+  - Load testing (`k6`)  
+- **Documentation:** `Swagger/OpenAPI`, `Markdown`, `Confluence`
 
 ### 🌟 Projects & Achievements
 
