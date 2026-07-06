@@ -26,13 +26,18 @@
 
 # 🛠️ Technologies & Skills Stack
 
-- Golang: Fiber, Gin, Chi, Mizu, squirrel, goose, swaggo, authjwt, zap
-- Python: FastAPI, Django, Flask, asyncio, aiogram3, requests
-- SQL: SQLite3, PostgreSQL,  SQLX, SQLAlchemy 2.0, asyncpg
-- Backend: Postman, Swagger, JWT, Clickhouse, Celery, Redis, MongoDB, Git, Docker, k8s
-- Monitoring: Prometheus, Grafana, Jaeger, Loki, Promtail, ELK stack
-- Event-Driven: RabbitMQ, Kafka, NATS
-- API: RESTful, RPC, jRPC, gRPC
+### 🚀 TL;DR — Tech Stack in 30 Seconds
+
+**Languages:** Go · Python  
+**Frameworks:** Gin · Fiber · Chi · FastAPI · Django · Flask  
+**DB:** PostgreSQL · SQLite · ClickHouse · MongoDB · Redis  
+**Messaging:** Kafka · RabbitMQ · NATS  
+**Observability:** Prometheus · Grafana · Jaeger · Loki · ELK  
+**DevOps:** Docker · Kubernetes · GitHub Actions · Helm  
+**API:** REST · gRPC · WebSocket · JSON-RPC  
+**Testing:** Go test · testify · gomock · pytest · k6  
+**Auth:** JWT · OAuth2  
+**Tools:** Git · Swagger · Postman · Celery · Zap · Squirrel · Goose 
 
 ## 🚀 Core Backend
 
