@@ -26,7 +26,7 @@
 
 # 🛠️ Technologies & Skills Stack
 
-### 🚀 TL;DR — Tech Stack in 30 Seconds
+### 🚀 Tech Stack in 30 Seconds
 
 **Languages:** Go · Python  
 **Frameworks:** Gin · Fiber · Chi · FastAPI · Django · Flask  
