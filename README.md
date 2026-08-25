@@ -1,174 +1,147 @@
-### Welcome to my Coding Space!🌟
+<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF8C00&width=435&lines=Greetings%2C+fellows!+👋;Welcome+to+my+GitHub+profile!)
+# Denis Matveev · Eastwesser
 
-### 🛠 Skills & Tools
-![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+**Backend engineer** — Go microservices, event-driven systems, async Python, production DevOps
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical" alt="Dennis's GitHub stats" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical" alt="Top Langs" height="190" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=500&lines=Go+%7C+Python+%7C+gRPC+%7C+NATS;Building+Event+Horizon+%F0%9F%8E%AE;Microservices+%E2%86%92+Production)
+
+[![Event Horizon](https://img.shields.io/badge/Flagship-Event%20Horizon-6366f1?style=for-the-badge)](https://github.com/Eastwesser/event-horizon)
+[![Go](https://img.shields.io/badge/Go-1.25-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev/)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
+[![Docker](https://img.shields.io/badge/Docker-Compose%20%7C%20k3s-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![NATS](https://img.shields.io/badge/NATS-JetStream-27AAE1?style=flat-square&logo=nats.io&logoColor=white)](https://nats.io/)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eastwesser&show_icons=true&theme=radical" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eastwesser&layout=compact&theme=radical" alt="Top languages" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub Streak" height="190" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eastwesser&theme=radical" alt="GitHub streak" height="165" />
 </p>
 
-# 🛠️ Technologies & Skills Stack
-
-### 🚀 Tech Stack in 30 Seconds
-
-**Languages:** Go · Python  
-**Frameworks:** Gin · Fiber · Chi · FastAPI · Django · Flask  
-**DB:** PostgreSQL · SQLite · ClickHouse · MongoDB · Redis  
-**Messaging:** Kafka · RabbitMQ · NATS  
-**Observability:** Prometheus · Grafana · Jaeger · Loki · ELK  
-**DevOps:** Docker · Kubernetes · GitHub Actions · Helm  
-**API:** REST · gRPC · WebSocket · JSON-RPC  
-**Testing:** Go test · testify · gomock · pytest · k6  
-**Auth:** JWT · OAuth2  
-**Tools:** Git · Swagger · Postman · Celery · Zap · Squirrel · Goose 
-
-## 🚀 Core Backend
-
-**Languages & Frameworks**
-
-- **Golang:** `Gin`, `Fiber`, `Chi`  
-  - REST API, gRPC  
-  - Mizu (traffic mirroring)  
-  - Squirrel (query builder)  
-  - Goose (migrations)  
-  - Swaggo (OpenAPI)
-
-- **Python:** `FastAPI`, `Django`, `Flask`  
-  - Async (`asyncio`, `aiohttp`)  
-  - Aiogram3 (Telegram bots)
-
-**API & Communication**
-
-- `RESTful API`, `gRPC`, `JSON-RPC`, `WebSocket`
-
-**Authentication & Security**
-
-- `JWT` (golang-jwt)  
-- `OAuth2`
+</div>
 
 ---
 
-## 🗄️ Storage & Data
+## About me
 
-| Type               | Tools                                                                 |
-|--------------------|-----------------------------------------------------------------------|
-| **Relational (SQL)** | `PostgreSQL`, `SQLite3`, `sqlx`, `SQLAlchemy 2.0`, `asyncpg`        |
-| **NoSQL**          | `MongoDB`, `Redis` (caching, sessions, pub/sub)                     |
-| **OLAP / Columnar**| `ClickHouse` (analytics, time-series)                               |
-| **ORM / Query Builders** | `GORM`, `Squirrel`, `SQLAlchemy`                            |
+I'm a **Golang & Python developer** focused on backend systems that stay understandable under load: clear service boundaries, explicit config, observability from day one, and deploy paths you can actually run locally.
+
+I care about routine craft — migrations, health checks, OpenAPI contracts, tests that protect real behavior — not just greenfield demos. Current flagship: **[Event Horizon](https://github.com/Eastwesser/event-horizon)**, a microservices game platform I use as both product and reference architecture.
 
 ---
 
-## 📡 Messaging & Streaming
+## Featured project — Event Horizon
 
-**Message Brokers**
+[![GitHub stars](https://img.shields.io/github/stars/Eastwesser/event-horizon?style=social&label=Star)](https://github.com/Eastwesser/event-horizon/stargazers)
+[![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/Eastwesser/event-horizon/blob/main/LICENSE)
 
-- `RabbitMQ` (core)  
-- `Apache Kafka` (streaming, partitions)  
-- `NATS` (high-speed, JetStream)
+High-load-friendly **gaming platform** (v1.0.7): real-time leaderboard via NATS + WebSockets, shop economy, JWT auth, target design ~10k RPS.
 
-**Integration Patterns**
+```text
+React → Balancer → Gateway (×3) → gRPC mesh → Postgres / Redis / NATS / ClickHouse
+```
 
-- Event-driven architecture  
-- Outbox pattern  
-- CQRS (basic)  
-- DLQ (Dead Letter Queue)  
-- Retries with jitter
+| Layer | What's inside |
+|-------|----------------|
+| **Services** | 14+ Go microservices · Clean Architecture (handler → service → repository) |
+| **API** | HTTP Gateway `/api/` → gRPC · hand-maintained OpenAPI + Swagger UI |
+| **Auth** | JWT roles (`user` \| `author` \| `admin`) · sessions in Redis · bcrypt cost 12 |
+| **Events** | NATS JetStream · transactional **outbox** (Inventory, Billing, Shop, Payment, Game) |
+| **Data** | PostgreSQL per domain · Redis · MongoDB (inventory) · ClickHouse (analytics) |
+| **Ops** | Prometheus, Grafana, Jaeger · `/health` + `/ready` · GitHub Actions → Docker Hub · Ansible · k3s & Patroni stubs |
 
----
+```bash
+git clone https://github.com/Eastwesser/event-horizon.git
+cd event-horizon
+# create .env with JWT_SECRET locally — never commit .env
+make deploy && make status
+```
 
-## 📈 Observability & Monitoring
-
-| Tool                         | Purpose                        |
-|------------------------------|--------------------------------|
-| **Prometheus**               | Metrics collection             |
-| **Grafana**                  | Dashboards & visualization     |
-| **Jaeger**                   | Distributed tracing            |
-| **Loki + Promtail**          | Log aggregation                |
-| **ELK Stack** (Elasticsearch, Logstash, Kibana) | Legacy logging system |
-
----
-
-## 🐳 DevOps & Infrastructure
-
-**Containerization**
-
-- `Docker`, `Docker Compose`  
-- Multi-stage builds, `scratch` images
-
-**Orchestration**
-
-- `Kubernetes (k8s)`  
-  - Helm, HPA (Horizontal Pod Autoscaler)  
-  - Canary deployments  
-  - Liveness/Readiness probes
-
-**CI/CD**
-
-- `GitHub Actions`  
-- `GitLab CI` (basic pipelines)
-
-**Service Discovery**
-
-- `Consul` (basics)
+Architecture docs: [`confluence/architecture/`](https://github.com/Eastwesser/event-horizon/tree/main/confluence/architecture) in the repo.
 
 ---
 
-## 🛠️ Other Skills
+## Other projects
 
-- **Version Control:** `Git` (branching strategies, rebase, merge)  
-- **Testing:**  
-  - `Go` (table-driven tests, `testify`, `gomock`)  
-  - `Python` (`pytest`)  
-  - Load testing (`k6`)  
-- **Documentation:** `Swagger/OpenAPI`, `Markdown`, `Confluence`
+| Project | Description | Link |
+|---------|-------------|------|
+| **Car-sharing LUXURY** | Fullstack luxury car rental app (Go + TypeScript) | [car-rental](https://github.com/Eastwesser/car-rental) |
+| **CloudMiu** | Telegram bot (aiogram3) with YandexGPT & Kandinsky API integration | [CloudMiu](https://github.com/Eastwesser/CloudMiu) |
 
-### 🌟 Projects & Achievements
+---
 
-- **Event Horizon**: A highload friendly Golang gaming platform with a real-time leaderboard via NATS + WebSockets and 10K RPS goals.
-  - [Repository on GitHub](https://github.com/Eastwesser/event-horizon)
-    
-- **Car-sharing LUXURY**: Developed a fullstack app for renting luxury cars from Ford to Ferrari using Golang and TypeScript.
-  - [Repository on GitHub](https://github.com/Eastwesser/car-rental)
+## Tech stack
 
-- **Telegram Bot for YandexGPT & Kandinsky**: Created a Telegram-bot using aiogram3 that integrates with YandexGPT and Kandinsky APIs, enhancing user interaction with automated responses and images.
-  - [Repository on GitHub](https://github.com/Eastwesser/CloudMiu)
+### Languages & frameworks
 
-### 📜 Certifications & Skills
+**Go (primary)** — Gin gateway, gRPC, `testify`, Goose migrations, structured logging (`slog`). Event Horizon: circuit breakers, rate limits, interceptor chains (recovery, validate, logging).
 
-- **Go (Golang) - first acquaintance**: [Certificate](https://stepik.org/cert/2525739?lang=en)
-- **Good, Good Python** - Sergey Balakirev's educational course: [Certificate](https://stepik.org/cert/2165774)
-- **Quick Start in FastAPI Python**: [Certificate](https://stepik.org/cert/2363817)
-- **SQL Introduction**: [Certificate](https://stepik.org/cert/2336687)
+**Python** — FastAPI, Django, Flask · async (`asyncio`, `aiohttp`) · Aiogram3 for Telegram bots · `pytest`.
 
-### 💬 About Me
+**Frontend touchpoints** — TypeScript, React (Event Horizon SPA).
 
-- A dedicated Golang & Python developer on a journey to master web development, data analysis, and async backend.
-- I embrace routine tasks and always strive for excellence.
-- My goal is to become a fullstack developer and continue exploring async technologies, discovering new horizons and optimizing our life.
+### API & communication
 
-### 📫 How to reach me
+REST · gRPC · WebSocket · JSON-RPC · OpenAPI / Swagger
 
-- **Email**: eastwesser@gmail.com
+### Data & storage
 
-Thank you for visiting my profile! 
-Feel free to explore my projects and get in touch if you have any questions or collaboration ideas!
+| Type | Tools |
+|------|--------|
+| **SQL** | PostgreSQL, SQLite · sqlx · SQLAlchemy 2.0 · asyncpg |
+| **NoSQL / cache** | MongoDB · Redis (sessions, cache, pub/sub, leaderboard sorted sets) |
+| **OLAP** | ClickHouse (analytics, time-series) |
+| **ORM / queries** | GORM · SQLAlchemy (Python side projects) |
+
+### Messaging & patterns
+
+NATS JetStream · RabbitMQ · Apache Kafka · event-driven architecture · **outbox pattern** · CQRS (basics) · DLQ · retries with jitter
+
+### Observability
+
+Prometheus · Grafana · Jaeger · Loki + Promtail · ELK (legacy exposure)
+
+### DevOps & infra
+
+Docker · Docker Compose · multi-stage builds · Kubernetes (k3s) · Helm · HPA · liveness/readiness probes · GitHub Actions · GitLab CI · Ansible · Consul (basics) · Patroni HA pilots
+
+### Security & quality
+
+JWT · OAuth2 · env-based secrets (no committed `.env`) · Go table-driven tests · gomock · k6 load testing · golangci-lint
+
+### Tooling
+
+Git · Postman · Markdown · Confluence · Celery (Python jobs)
+
+---
+
+## Certifications
+
+| Course | Certificate |
+|--------|-------------|
+| Go (Golang) — first acquaintance | [Stepik](https://stepik.org/cert/2525739?lang=en) |
+| Good, Good Python (Sergey Balakirev) | [Stepik](https://stepik.org/cert/2165774) |
+| Quick Start in FastAPI Python | [Stepik](https://stepik.org/cert/2363817) |
+| SQL Introduction | [Stepik](https://stepik.org/cert/2336687) |
+
+---
+
+## Connect
+
+- **GitHub:** [@Eastwesser](https://github.com/Eastwesser)
+- **Email:** eastwesser@gmail.com
+
+Questions, code review, or collaboration ideas — feel free to reach out.
+
+---
+
+<div align="center">
+
+*If Event Horizon helped you learn microservices in Go, a ⭐ on the repo means a lot.*
 
 **Ad Victoriam!**
+
+</div>
