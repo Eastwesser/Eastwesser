@@ -27,7 +27,7 @@
 
 ## About me
 
-I'm a **Golang & Python developer** focused on backend systems that stay understandable under load: clear service boundaries, explicit config, observability from day one, and deploy paths you can actually run locally.
+I'm a **Golang & Python developer** focused on backend systems that stay understandable under high load: clear service boundaries, explicit config, observability from day one, and deploy paths you can actually run locally.
 
 I care about routine craft — migrations, health checks, OpenAPI contracts, tests that protect real behavior — not just greenfield demos. Current flagship: **[Event Horizon](https://github.com/Eastwesser/event-horizon)**, a microservices game platform I use as both product and reference architecture.
 
