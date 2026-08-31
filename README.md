@@ -38,7 +38,7 @@ I care about routine craft — migrations, health checks, OpenAPI contracts, tes
 [![GitHub stars](https://img.shields.io/github/stars/Eastwesser/event-horizon?style=social&label=Star)](https://github.com/Eastwesser/event-horizon/stargazers)
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/Eastwesser/event-horizon/blob/main/LICENSE)
 
-High-load-friendly **gaming platform** (v1.0.7): real-time leaderboard via NATS + WebSockets, shop economy, JWT auth, target design ~10k RPS.
+High-load-friendly **gaming platform** (v1.0.8): real-time leaderboard via NATS + WebSockets, shop economy, JWT auth, target design ~10k RPS.
 
 ```text
 React → Balancer → Gateway (×3) → gRPC mesh → Postgres / Redis / NATS / ClickHouse
