@@ -2,7 +2,7 @@
 
 # Denis Matveev · Eastwesser
 
-**Backend engineer** — Go microservices, event-driven systems, async Python, production DevOps у
+**Backend engineer** — Go microservices, event-driven systems, async Python, production DevOps 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&width=500&lines=Go+%7C+Python+%7C+gRPC+%7C+NATS;Building+Event+Horizon+%F0%9F%8E%AE;Microservices+%E2%86%92+Production)
 
