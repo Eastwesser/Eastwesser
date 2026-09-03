@@ -79,7 +79,7 @@ Architecture docs: [`confluence/architecture/`](https://github.com/Eastwesser/ev
 
 **Go (primary)** — Gin gateway, gRPC, `testify`, Goose migrations, structured logging (`slog`). Event Horizon: circuit breakers, rate limits, interceptor chains (recovery, validate, logging).
 
-**Python** — FastAPI, Django, Flask · async (`asyncio`, `aiohttp`) · Aiogram3 for Telegram bots · `pytest`.
+**Python** — FastAPI, Django, Flask · async (`asyncio`, `aiohttp`) · Aiogram3+ for Telegram bots · `pytest`.
 
 **Frontend touchpoints** — TypeScript, React (Event Horizon SPA).
 
