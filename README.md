@@ -51,7 +51,7 @@ React → Balancer → Gateway (×3) → gRPC mesh → Postgres / Redis / NATS /
 | **Auth** | JWT roles (`user` \| `author` \| `admin`) · sessions in Redis · bcrypt cost 12 |
 | **Events** | NATS JetStream · transactional **outbox** (Inventory, Billing, Shop, Payment, Game) |
 | **Data** | PostgreSQL per domain · Redis · MongoDB (inventory) · ClickHouse (analytics) |
-| **Ops** | Prometheus, Grafana, Jaeger · `/health` + `/ready` · GitHub Actions → Docker Hub · Ansible · k3s & Patroni stubs |
+| **Ops** | Prometheus, Grafana, Jaeger · `/health` + `/ready` · GitHub Actions → Docker Hub · Ansible · k3s & Patroni stub |
 
 ```bash
 git clone https://github.com/Eastwesser/event-horizon.git
