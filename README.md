@@ -1,6 +1,6 @@
 <div align="center">
 
-# Denis Matveev · Eastwesser
+# Denis Matveev · Eastwesserк
 
 **Backend engineer** — Go microservices, event-driven systems, async Python, and production DevOps 
 
