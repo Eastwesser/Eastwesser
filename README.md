@@ -122,10 +122,10 @@ Git · Postman · Markdown · Confluence · Celery (Python jobs)
 
 | Course | Certificate |
 |--------|-------------|
-| Go (Golang) — first acquaintance | [Stepik](https://stepik.org/cert/2525739?lang=en) |
+| Go (Golang) | [Stepik](https://stepik.org/cert/2525739?lang=en) |
 | Good, Good Python (Sergey Balakirev) | [Stepik](https://stepik.org/cert/2165774) |
 | Quick Start in FastAPI Python | [Stepik](https://stepik.org/cert/2363817) |
-| SQL Introduction | [Stepik](https://stepik.org/cert/2336687) |
+| SQL | [Stepik](https://stepik.org/cert/2336687) |
 
 ---
 
