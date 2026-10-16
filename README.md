@@ -38,7 +38,7 @@ I care about routine craft — migrations, health checks, OpenAPI contracts, tes
 [![GitHub stars](https://img.shields.io/github/stars/Eastwesser/event-horizon?style=social&label=Star)](https://github.com/Eastwesser/event-horizon/stargazers)
 [![License MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/Eastwesser/event-horizon/blob/main/LICENSE)
 
-High-load-friendly **gaming platform** (v1.0.9): real-time leaderboard via NATS with WebSockets, shop economy, JWT auth, target design ~10k RPS.
+High-load-friendly **gaming platform** (v1.1.3): real-time leaderboard via NATS with WebSockets, shop economy, JWT auth, target design ~10k RPS.
 
 ```text
 React → Balancer → Gateway (×3) → gRPC mesh → Postgres / Redis / NATS / ClickHouse
@@ -46,7 +46,7 @@ React → Balancer → Gateway (×3) → gRPC mesh → Postgres / Redis / NATS /
 
 | Layer | What's inside |
 |-------|----------------|
-| **Services** | 14+ Go microservices · Clean Architecture (handler → service → repository) |
+| **Services** | 17 Go microservices · Clean Architecture (handler → service → repository) |
 | **API** | HTTP Gateway `/api/` → gRPC · hand-maintained OpenAPI + Swagger UI |
 | **Auth** | JWT roles (`user` \| `author` \| `admin`) · sessions in Redis · bcrypt cost 12 |
 | **Events** | NATS JetStream · transactional **outbox** (Inventory, Billing, Shop, Payment, Game) |
