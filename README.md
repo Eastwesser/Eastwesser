@@ -134,7 +134,7 @@ Git · Postman · Markdown · Confluence · Celery (Python jobs)
 - **GitHub:** [@Eastwesser](https://github.com/Eastwesser)
 - **Email:** eastwesser@gmail.com
 
-Questions, code review, or collaboration ideas — feel free to reach out.
+Questions, code review or collaboration ideas — feel free to reach out.
 
 ---
 
